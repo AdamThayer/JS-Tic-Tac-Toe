@@ -1,0 +1,14 @@
+body {
+  background: #000000;
+}
+.grid td {
+  background: #FFFFFF;
+  width: 100px;
+  height: 100px;
+}
+.grid td.move-x {
+        background-image: url(http://i61.tinypic.com/faz9g3.png);
+}
+.grid td.move-o {
+        background-image: url(http://i61.tinypic.com/ounjtu.png);
+}
